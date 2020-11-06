@@ -4,9 +4,10 @@ A To-do list app while learning django. <b>Personal Project</b>.
 
 ## 🤙🏻 Features :
 - ⚡ Nice looking UI
+- ⚡ User can add their todos
 - ⚡ They can mark the todos if completed by clicking it
-- ⚡ The completed task will have a crossed style
-- ⚡ User call delete all completed todos at once
+- ⚡ The completed task will have a crossed text style
+- ⚡ User can delete all completed todos at once
 - ⚡ User can delete all the todos at once
 - ⚡ Used : Html,Css,Bootstrap,Django
 
